@@ -1,2 +1,63 @@
 
-.env
+amber.Q4_K_M.gguf
+Saved datasets/meta.pkl
+Saved datasets/meta_cat.pkl
+Saved datasets/reviews.pkl
+Saved datasets/X_test_tokenized.pt
+Saved datasets/X_train_tokenized.pt
+Model outputs/categories.csv
+Model outputs/sentiment_checkpoint.csv
+Model outputs/test_predictions.csv
+logs/events.out.tfevents.1729159986.LAPTOP-7ELJ8M1T.4420.3
+logs/events.out.tfevents.1729159286.LAPTOP-7ELJ8M1T.4420.1
+logs/events.out.tfevents.1729159442.LAPTOP-7ELJ8M1T.4420.2
+logs/events.out.tfevents.1729157515.LAPTOP-7ELJ8M1T.8960.12
+logs/events.out.tfevents.1729159041.LAPTOP-7ELJ8M1T.4420.0
+logs/events.out.tfevents.1729157386.LAPTOP-7ELJ8M1T.8960.10
+logs/events.out.tfevents.1729157484.LAPTOP-7ELJ8M1T.8960.11
+logs/events.out.tfevents.1729156603.LAPTOP-7ELJ8M1T.8960.9
+logs/events.out.tfevents.1729156565.LAPTOP-7ELJ8M1T.8960.7
+logs/events.out.tfevents.1729156579.LAPTOP-7ELJ8M1T.8960.8
+logs/events.out.tfevents.1729156061.LAPTOP-7ELJ8M1T.8960.5
+logs/events.out.tfevents.1729156319.LAPTOP-7ELJ8M1T.8960.6
+logs/events.out.tfevents.1729155309.LAPTOP-7ELJ8M1T.8960.3
+logs/events.out.tfevents.1729155912.LAPTOP-7ELJ8M1T.8960.4
+logs/events.out.tfevents.1729154842.LAPTOP-7ELJ8M1T.8960.1
+logs/events.out.tfevents.1729155005.LAPTOP-7ELJ8M1T.8960.2
+logs/events.out.tfevents.1729150826.LAPTOP-7ELJ8M1T.12812.1
+logs/events.out.tfevents.1729154291.LAPTOP-7ELJ8M1T.8960.0
+logs/events.out.tfevents.1729114003.LAPTOP-7ELJ8M1T.6272.3
+logs/events.out.tfevents.1729149506.LAPTOP-7ELJ8M1T.12812.0
+logs/events.out.tfevents.1729113358.LAPTOP-7ELJ8M1T.6272.1
+logs/events.out.tfevents.1729113876.LAPTOP-7ELJ8M1T.6272.2
+logs/events.out.tfevents.1729098934.LAPTOP-7ELJ8M1T.2552.1
+logs/events.out.tfevents.1729110350.LAPTOP-7ELJ8M1T.6272.0
+logs/events.out.tfevents.1729098329.LAPTOP-7ELJ8M1T.2552.0
+logs/events.out.tfevents.1729096048.LAPTOP-7ELJ8M1T.10028.4
+logs/events.out.tfevents.1729095989.LAPTOP-7ELJ8M1T.10028.3
+logs/events.out.tfevents.1729091193.LAPTOP-7ELJ8M1T.10028.2
+logs/events.out.tfevents.1729090562.LAPTOP-7ELJ8M1T.10028.1
+logs/events.out.tfevents.1729090294.LAPTOP-7ELJ8M1T.10028.0
+category_results/checkpoint-396/training_args.bin
+categoriser_model/added_tokens.json
+category_results/checkpoint-396/trainer_state.json
+category_results/checkpoint-396/scheduler.pt
+category_results/checkpoint-396/rng_state.pth
+category_results/checkpoint-396/optimizer.pt
+category_results/checkpoint-396/model.safetensors
+category_results/checkpoint-264/training_args.bin
+category_results/checkpoint-264/trainer_state.json
+category_results/checkpoint-264/scheduler.pt
+category_results/checkpoint-264/rng_state.pth
+category_results/checkpoint-264/optimizer.pt
+category_results/checkpoint-264/model.safetensors
+category_results/checkpoint-132/training_args.bin
+category_results/checkpoint-132/trainer_state.json
+category_results/checkpoint-132/scheduler.pt
+category_results/checkpoint-132/rng_state.pth
+category_results/checkpoint-132/optimizer.pt
+category_results/checkpoint-132/model.safetensors
+categoriser_model/tokenizer_config.json
+categoriser_model/spm.model
+categoriser_model/special_tokens_map.json
+categoriser_model/model.safetensors
